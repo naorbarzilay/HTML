@@ -1,3 +1,3 @@
 # HTML-PHP
 
-Little project that i built in HTML&PHP course
+Small project that I built in HTML&PHP course
